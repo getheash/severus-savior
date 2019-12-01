@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-  cout<<"Hello World";
+  cout<<"Hello World\n";
+  cout<<"making my first commit";
   return 0;
 }
